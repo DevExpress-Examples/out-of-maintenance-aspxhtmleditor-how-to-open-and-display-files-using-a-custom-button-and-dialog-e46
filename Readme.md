@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/DevExpress.Example/Default.aspx) (VB: [Default.aspx](./VB/DevExpress.Example/Default.aspx))
+* [Default.aspx.cs](./CS/DevExpress.Example/Default.aspx.cs) (VB: [Default.aspx](./VB/DevExpress.Example/Default.aspx))
+* [UCOpenFile.ascx](./CS/DevExpress.Example/UCOpenFile.ascx) (VB: [UCOpenFile.ascx.vb](./VB/DevExpress.Example/UCOpenFile.ascx.vb))
+* [UCOpenFile.ascx.cs](./CS/DevExpress.Example/UCOpenFile.ascx.cs) (VB: [UCOpenFile.ascx.vb](./VB/DevExpress.Example/UCOpenFile.ascx.vb))
+<!-- default file list end -->
 # ASPxHtmlEditor - How to open and display files using a custom button and dialog
 
 
