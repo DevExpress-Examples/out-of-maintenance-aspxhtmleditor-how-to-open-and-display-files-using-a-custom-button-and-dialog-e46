@@ -2,7 +2,7 @@
 Imports DevExpress.Web.ASPxHtmlEditor
 Imports System.IO
 Imports System.Collections.Generic
-Imports DevExpress.Web.ASPxClasses
+Imports DevExpress.Web
 
 Namespace DevExpress.Example
     Partial Public Class [Default]

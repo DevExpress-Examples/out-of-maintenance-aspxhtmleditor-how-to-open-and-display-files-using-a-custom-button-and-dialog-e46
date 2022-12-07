@@ -2,7 +2,7 @@
 using DevExpress.Web.ASPxHtmlEditor;
 using System.IO;
 using System.Collections.Generic;
-using DevExpress.Web.ASPxClasses;
+using DevExpress.Web;
 
 namespace DevExpress.Example {
     public partial class Default : System.Web.UI.Page {
